@@ -40,5 +40,4 @@ sudo docker-compose down
 # OR
 
 sudo docker-compose down --remove-orphans --rmi all -v
-
 ```
