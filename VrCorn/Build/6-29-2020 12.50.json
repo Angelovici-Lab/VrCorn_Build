@@ -1,0 +1,16 @@
+{
+"companyName": "University of Missouri",
+"productName": "VRCorn",
+"productVersion": "1.1",
+"dataUrl": "6-29-2020 12.50.data.unityweb",
+"wasmCodeUrl": "6-29-2020 12.50.wasm.code.unityweb",
+"wasmFrameworkUrl": "6-29-2020 12.50.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.2f1"
+}
