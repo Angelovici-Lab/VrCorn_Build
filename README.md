@@ -28,7 +28,11 @@ sudo docker-compose up -d
    
 After starting the game, open a browser and type:
 ```
-http://localhost:8080/
+localhost
+
+# OR
+
+127.0.0.1
 ```
    
    
